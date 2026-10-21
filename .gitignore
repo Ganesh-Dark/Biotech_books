@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.py
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Large original PDF files that have been split into readable volumes
+Bioorg_chemistry/Introduction_to_Bioorganic_Chemistry_and_Chemical_Biology_PDFDrive.pdf
+General/Full.pdf
+General/biotechnology-by-usatyanarayana.pdf
+Microbiology_and_food_microbiology/basic food microbiology.pdf
+Molecular_Biology/Molecular Biology of the Cell, Fifth Edition ( PDFDrive ).pdf
+Molecular_Biology/The Cell. A Molecular Approach ( PDFDrive ).pdf
